@@ -23,24 +23,24 @@ These experiences have not only fortified my foundation in computer science but 
 
 # Work Experience
 
-## Software Engineer at Microsoft
+### Software Engineer at Microsoft
 - **Duration:** Aug 2022 - Aug 2023
 
-## Research Intern at Nanyang Technological University
+### Research Intern at Nanyang Technological University
 - **Duration:** Spring 2022
 - **Supervisor:** Prof. Chng Eng Siong
 
-## Research Intern at University of British Columbia
+### Research Intern at University of British Columbia
 - **Duration:** Fall 2021
 - **Supervisor:** Dr. Apurva Narayan
 
-## Software Engineering Intern at Microsoft
+### Software Engineering Intern at Microsoft
 - **Duration:** Summer 2021
 
-## Machine Learning Intern at Spacejoy
+### Machine Learning Intern at Spacejoy
 - **Duration:** Summer 2020
 
-## Research Intern at Indira Gandhi Centre for Atomic Research
+### Research Intern at Indira Gandhi Centre for Atomic Research
 - **Duration:** Summer 2019
 - **Supervisor:** Dr. M.L. Jaylal
 
