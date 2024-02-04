@@ -12,5 +12,3 @@ redirect_from:
 
 🚀 Dive into my portfolio - where the only bug is the one I haven't fixed yet!
 
-<iframe src="https://pranavgrandhi.github.io/files/PranavGrandhi_Resume.pdf" width="100%" height="800px"></iframe>
-
