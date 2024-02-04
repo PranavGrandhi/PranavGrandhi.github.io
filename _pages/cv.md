@@ -41,7 +41,7 @@ Work experience
 * Summer 2019: Research Intern
   * Indira Gandhi Centre for Atomic Research
   * Particle Swarm Optimization(PSO) in the Design of Nuclear Reactor Core: Used PSO to find out the optimum architecture of the control rods in the design of the nuclear reactor core to maximize efficiency. A novel variation of the algorithm was proposed and its applications were discussed in NP-Hard problems and the reactor core.
-  * * Supervisor: Dr. M.L. Jaylal
+  * Supervisor: Dr. M.L. Jaylal
 
 
 Publications
