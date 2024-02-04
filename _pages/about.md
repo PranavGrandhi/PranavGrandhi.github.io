@@ -22,18 +22,18 @@ These experiences have not only fortified my foundation in computer science but 
 🚀 Dive into my portfolio - where the only bug is the one I haven't fixed yet!
 
 ## Work Experience
-# Software Engineer at Microsoft (Aug 2022 - Aug 2023)
+- ### Software Engineer at Microsoft (Aug 2022 - Aug 2023)
 
-### Research Intern at Nanyang Technological University (Spring 2022)
+- ### Research Intern at Nanyang Technological University (Spring 2022)
 - **Supervisor:** Prof. Chng Eng Siong
 
-### Research Intern at University of British Columbia (Fall 2021)
+- ### Research Intern at University of British Columbia (Fall 2021)
 - **Supervisor:** Dr. Apurva Narayan
 
-### Software Engineering Intern at Microsoft (Summer 2021)
+- ### Software Engineering Intern at Microsoft (Summer 2021)
 
-### Machine Learning Intern at Spacejoy (Summer 2020)
+- ### Machine Learning Intern at Spacejoy (Summer 2020)
 
-### Research Intern at Indira Gandhi Centre for Atomic Research (Summer 2019)
+- ### Research Intern at Indira Gandhi Centre for Atomic Research (Summer 2019)
 - **Supervisor:** Dr. M.L. Jaylal
 
